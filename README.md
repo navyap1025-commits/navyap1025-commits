@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Navya 👋
 
-<!--
-**navyap1025-commits/navyap1025-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-leaning software engineer and CS graduate student, currently looking for a **Computer Science internship**.
 
-Here are some ideas to get you started:
+- 🎓 M.S. in Computer Science @ Fitchburg State University (expected [August 2027])
+- 💼 3 years building backend systems, automated data workflows, and cloud deployments at Accenture
+- 🛠️ Comfortable across the stack: Python/Django on the backend, SQL for data work, AWS for deployment
+- 🌱 Currently deepening my skills in distributed systems and applied machine learning through coursework
+- 📫 Reach me at navyap1025@gmail.com or [LinkedIn](https://www.linkedin.com/in/navya-paruchuri-11033252/)
+- 🔗 [Portfolio](https://claude.ai/artifact/6wtxtGGzp8aasMNDeGa24Y)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Languages & tools:** Python · SQL · Java · Django · AWS (EC2, S3, RDS) · Linux
+
+**What I'm working on:**
+- Distributed data pipeline for large-scale analytics (Python, distributed systems)
+- Predictive analytics with scikit-learn
+- Full-stack web app in Django with RESTful endpoints
