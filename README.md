@@ -2,7 +2,7 @@
 
 Backend-leaning software engineer and CS graduate student, currently looking for a **Computer Science internship**.
 
-- 🎓 M.S. in Computer Science @ Fitchburg State University (expected August 2027)
+- 🎓 M.S. in Computer Science @ Fitchburg State University expected August 2027
 - 💼 3 years building backend systems, automated data workflows, and cloud deployments at Accenture
 - 🛠️ Comfortable across the stack: Python/Django on the backend, SQL for data work, AWS for deployment
 - 🌱 Currently deepening my skills in distributed systems and applied machine learning through coursework
